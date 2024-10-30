@@ -1,0 +1,26 @@
+  
+  .img-container{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+   flex-wrap: wrap;
+   padding-top: 50px;
+  }
+  .comp-img{
+    width: 250px;
+
+    
+  }
+  .comp-content{
+    padding: auto;
+    flex-wrap: wrap;
+
+    h2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 50px;
+        text-align: center;
+    }
+  }

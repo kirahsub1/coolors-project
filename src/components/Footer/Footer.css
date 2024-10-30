@@ -1,0 +1,27 @@
+.footer-container{
+    background-color: #f7f7f8;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+section{
+    padding: 20px;
+    margin-left: 20px;
+
+    h2{
+     font-size: 30px;
+     font-weight: 800;
+    }
+
+    a{
+     display: flex;
+     flex-direction: column; 
+     text-decoration: none;  
+     color: black;
+     font-size: 18px;
+     font-weight: 400;
+     &:hover{
+         color: #005ce6;
+     }
+    }
+}

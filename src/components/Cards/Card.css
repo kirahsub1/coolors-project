@@ -1,0 +1,16 @@
+.main-container{
+    margin: 20px;
+    padding-top: 20px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+}
+
+.container{
+    width: 250px;
+    height: 300px;
+    background-color: rgb(238, 229, 229);
+    padding: 20px;
+    border-radius: 10px;
+}
