@@ -1,7 +1,7 @@
 import Navbar from "../../components/Navbar/Navbar";
 import Hero from "../../components/Hero/Hero";
 import Cards from "../../components/Cards/Card";
-import Comp from "../../components/Compine/comp";
+import Comp from "../../components/Comp/Comp";
 import Footer from "../../components/Footer/Footer";
 import { FaApple } from "react-icons/fa";
 import { IoLogoAndroid } from "react-icons/io";
